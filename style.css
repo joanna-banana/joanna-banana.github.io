@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700|Raleway:400,700&display=swap');
+body{
+  background-color: tan;
+  color: green;
+  font-family: 'Lato', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+}
+.orange-veg{
+  color: orange
+}
+.purple-veg{
+  color:purple
+}
+.brown-veg{
+  color:brown
+}
+#welcome-to{
+  color:darkgreen;
+}
